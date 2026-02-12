@@ -29,4 +29,3 @@ Notes
 • Works only on Windows
 • Uses native OLE DoDragDrop
 • Designed for WebView2 backend
->>>>>>> 05f3741 (Initial upload of pywebview native drag module)
