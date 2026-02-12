@@ -1,0 +1,10 @@
+pywebview
+pywin32
+pythoncom
+win32con
+win32api
+win32gui
+win32com
+ctypes
+time
+threading
