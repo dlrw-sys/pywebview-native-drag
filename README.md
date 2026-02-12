@@ -1,6 +1,6 @@
 WebView Native Drag (Windows)
 
-Native file drag-and-drop from pywebview (WebView2) to Windows Explorer.
+Native file drag-and-drop from pywebview (WebView2) to Windows.
 
 Requirements
 
